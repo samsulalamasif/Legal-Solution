@@ -1,0 +1,29 @@
+.banner-img-1{
+    height: 70vh;
+    background-image: url(../images/Rectangle\ 6.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.body{
+    font-family: 'EB Garamond', serif;
+}
+.banner-carousel-img-1{
+    background-image: url(../images/judges-gavel-scale-justice-black-table.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.banner-carousel-img-2{
+    background-image: url(../images/law-justice-concept-dark-background.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+.banner-carousel-img-3{
+    background-image: url(../images/lady-justice-law-library-concept.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
